@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileUI", "TextFileUI\TextFileUI.csproj", "{0792263B-AD85-4877-BF8F-12FBD830F7CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{7ECFCDF9-B1C2-4559-B608-AD77BBEE1553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0792263B-AD85-4877-BF8F-12FBD830F7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0792263B-AD85-4877-BF8F-12FBD830F7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0792263B-AD85-4877-BF8F-12FBD830F7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0792263B-AD85-4877-BF8F-12FBD830F7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ECFCDF9-B1C2-4559-B608-AD77BBEE1553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ECFCDF9-B1C2-4559-B608-AD77BBEE1553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ECFCDF9-B1C2-4559-B608-AD77BBEE1553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ECFCDF9-B1C2-4559-B608-AD77BBEE1553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C044B1-8EC3-4E1B-9810-F999C56DA5E1}
+	EndGlobalSection
+EndGlobal
